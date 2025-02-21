@@ -1,7 +1,7 @@
 <p align="center"> 
     <a href="https://devoscape.com">
         <picture>
-            <img alt="Devoscape Logo" src="https://res.cloudinary.com/dwddaxdaf/image/upload/v1730887926/blue_logo_svfvk7.png" width=100>
+            <img alt="Devoscape Logo" src="https://res.cloudinary.com/wiz-images/image/upload/v1730887926/blue_logo_svfvk7.png" width=100>
         </picture>
     </a>
 </p>
