@@ -10,6 +10,10 @@
 
 Welcome to **Devoscape**, your trusted partner in innovative IT solutions! We specialize in delivering cutting-edge software development services and products tailored to meet the unique needs of businesses worldwide.
 
+## Why We Chose Devoscape
+
+Devoscape shows our goal to create smart software solutions. ```Dev``` stands for development, reflecting our expertise in building cutting-edge technology. The "o" signifies our global reach, delivering solutions worldwide from Sri Lanka. ```Scape``` means a big, creative vision, like a landscape, showing the exciting possibilities we build with software.
+
 ## 🚀 Our Services
 
 - **Custom Software Development**: Tailored solutions that solve your business challenges.
