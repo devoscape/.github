@@ -1,7 +1,7 @@
 <p align="center"> 
     <a href="https://devoscape.com">
         <picture>
-            <img alt="Devoscape Logo" src="https://private-user-images.githubusercontent.com/155751590/549249542-f54f60e6-cc87-46ca-91b4-220c516eda5e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA5NjA5MzAsIm5iZiI6MTc3MDk2MDYzMCwicGF0aCI6Ii8xNTU3NTE1OTAvNTQ5MjQ5NTQyLWY1NGY2MGU2LWNjODctNDZjYS05MWI0LTIyMGM1MTZlZGE1ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIxM1QwNTMwMzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03Y2M2ZDU5NWMwMzMxMWZhODEwMWU1YjczY2EyZWY1MGY3ZTRlMWY5ZTBiYmQzOTEzNTJiOWE5OTMzOTM2NDEwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pGQEtlcVTLWPSrMw-FSRgHGUUYFlK9MY5l3CCo8pGKk" width=100>
+            <img alt="Devoscape Logo" src="https://res.cloudinary.com/wiz-images/image/upload/v1770960975/fb_wnbjen.png" width=100>
         </picture>
     </a>
 </p>
